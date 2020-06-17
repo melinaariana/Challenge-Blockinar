@@ -1,0 +1,8 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#table-peliculas tbody tr.fila-ganadora {
+    background-color: rgb(233, 153, 180);
+    font-weight: bold;
+}
